@@ -12,12 +12,12 @@ All tests are describe in the **./jasmine/spec/feedreader.js**. Loading the inde
 
 ## What will be test?
 
-If fees are definied and if the parameters URL and NAME are definied and have some value;
+* If feeds are definied and if the parameters URL and NAME are definied and both has some value;
 
-If the menu is hidden on loading the page;
+* If the menu is hidden on loading the page;
 
-If the menu will be visibly or hide according click
+* If the menu will be visible or hidden after click;
 
-if the load feed has at least one on load
+* if the loaded feed has at least one entrey after loading the index.html;
 
-If a new feed is load by calling the loadFeed function on app.js
+* If a new feed is load by calling the loadFeed function on app.js
