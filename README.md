@@ -4,11 +4,12 @@ This project is a simple feed reader, but the real purpouse of this is to unders
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
 
-
 ## How does it work?
 
-All tests are describe in the **./jasmine/spec/feedreader.js**. Loading the index.html file the feedreader.js will run and you will can see at the bottom of page the result of the test.
+All tests are describe in the **./jasmine/spec/feedreader.js**. Loading the index.html file the feedreader.js will run and you will can see at the bottom of page the result of the tests.
 
+## Live Run
+ Try online : <https://xvossx.github.io/frontend-feed-reader-testing/>
 
 ## What will be test?
 
